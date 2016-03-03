@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Linked list.cbp
+*.depend
+bin/Debug/Linked list.exe
+*.o
